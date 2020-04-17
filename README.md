@@ -3,6 +3,12 @@
 
 *Repositório criado durante aula ao vivo!*
 
-Essa linha eu adicionei no site na hora que o **Guanabara** sujeriu!!
+__Essa__ linha eu adicionei no site na hora que o **Guanabara** sujeriu!!
 
-# Hélio.
+# Hélio.  Hashtag parar titulo.
+
+**NEGRITO COM DOIS ASTERISCOS**
+
+__NEGRITO COM DOIS UNDERLINE__
+
+*um asterisco para italico*
