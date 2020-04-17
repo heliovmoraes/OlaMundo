@@ -55,10 +55,6 @@ __NEGRITO COM DOIS UNDERLINE__
 
 Lista de tarefas:
 
-- [] Fazer pagamentos
-- [] Ir no super
-- [] Almoçar
-       
-  
-  
-  
+- [ ] Fazer pagamentos
+- [x] Ir no super
+- [ ] Almoçar
