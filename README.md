@@ -28,4 +28,15 @@ __NEGRITO COM DOIS UNDERLINE__
   ***   
   Tres asteriscos cria uma linha horizontal
   
+  # linha abaixo criada com 3 traços
+  ---
+  
+  posso misturar __*as configurações*__
+  
+**lista numerada (será feito a sequencia correta abaixo)**
+
+1. UM
+1. DOIS
+1. TRES
+  
   
