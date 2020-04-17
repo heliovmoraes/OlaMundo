@@ -59,4 +59,3 @@ Lista de tarefas:
 - [x] Ir no super
 - [ ] Almoçar
 
-
