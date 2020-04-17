@@ -58,3 +58,5 @@ Lista de tarefas:
 - [ ] Fazer pagamentos
 - [x] Ir no super
 - [ ] Almoçar
+
+
