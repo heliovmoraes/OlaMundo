@@ -52,8 +52,12 @@ __NEGRITO COM DOIS UNDERLINE__
     * teste
     - teste
        * teste
-     
 
+Lista de tarefas:
+
+- [] Fazer pagamentos
+- [] Ir no super
+- [] Almoçar
        
   
   
